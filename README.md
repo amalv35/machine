@@ -1,1 +1,1 @@
-# used react,typescript, tailwind,usestate,schadcn 
+ used react,typescript, tailwind,usestate,schadcn 
